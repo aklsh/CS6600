@@ -1,0 +1,15 @@
+[submodule "CacheEval"]
+	path = CacheEval
+	url = gh:aklsh/CacheEval
+[submodule "AdapPageManage"]
+	path = AdapPageManage
+	url = gh:aklsh/AdapPageManage
+[submodule "MMU"]
+	path = MMU
+	url = gh:aklsh/MMU
+[submodule "TournamentBPU"]
+	path = TournamentBPU
+	url = gh:aklsh/TournamentBPU
+[submodule "Tomasulo"]
+	path = Tomasulo
+	url = gh:aklsh/DynamicExecCore
