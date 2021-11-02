@@ -13,3 +13,6 @@
 [submodule "Tomasulo"]
 	path = Tomasulo
 	url = https://github.com/aklsh/DynamicExecCore
+[submodule "SimCache"]
+	path = SimCache
+	url = https://github.com/aklsh/SimCache
