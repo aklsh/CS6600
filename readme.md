@@ -12,6 +12,6 @@ _This work was done in collaboration with [Arjun](https://github.com/arjunmenonv
 
 - [MMU](https://github.com/aklsh/MMU): Memory Management Unit Simulator in Python implementing multi-level virtual address translation enabling efficient page table management along with LRU replacement for evicting pages and page tables from memory. 
 
-- [Tournament Branch Predictor](https://github.com/aklsh/TournamentBPU): Implementation of the Tournament Branch Predictor, first introduced in the Alpha21264 processor. Uses framework provided by JILP for [CBP2016](https://github.com/arjunmenonv/CS6600-ComputerArchitecture/tree/main/TournamentBPU) championship.
+- [Tournament Branch Predictor](https://github.com/aklsh/TournamentBPU): Implementation of the Tournament Branch Predictor, first introduced in the Alpha21264 processor. Uses framework provided by JILP for [CBP2016](https://jilp.org/cbp2016/framework.html) championship.
 
 - [Dynamic Execution Core](https://github.com/aklsh/DynamicExecCore): Python-based simulator for the Dynamic Execution Core of a Superscalar Out-of-Order Processor. Inspired by Tomasulo's Algorithm, this simulator implements register renaming, in-order dispatch and completion of instructions using dispatch, reservation and reorder buffers.
