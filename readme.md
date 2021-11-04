@@ -4,7 +4,7 @@ Assignments involving modelling and analysis of components of a modern computer,
 
 _This work was done in collaboration with [Arjun](https://github.com/arjunmenonv)._
 
-- [CacheParamEst](https://github.com/aklsh/CacheEval): Reverse Engineering the Block Size and Associativity of L1 Cache of a desktop PC by observing the variation in access latency. 
+- [CacheEval](https://github.com/aklsh/CacheEval): Reverse Engineering the Block Size and Associativity of L1 Cache of a desktop PC by observing the variation in access latency. 
 
 - [SimCache](https://github.com/aklsh/SimCache): Python-based Simulator of a Uniprocessor cache supporting Direct Mapped, Fully Associative and Set-Associative configurations. Includes implementation of Random, LRU and Pseudo-LRU replacement algorithms.
 
